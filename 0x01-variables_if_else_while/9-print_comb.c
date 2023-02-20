@@ -3,6 +3,7 @@
  * main - Write a program that prints all possible combinations of single-digit numbers.
  * Return: always 0 (success)
  */
+
 int main(void)
 {
 	int n;
