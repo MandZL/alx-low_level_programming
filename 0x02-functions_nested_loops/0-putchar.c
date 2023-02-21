@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <main.h>
-#include <unistd.h>
+#include "main.h"
 /**
  * main- program that prints _putchar
  *
