@@ -20,13 +20,13 @@ void print_diagonal(int n)
 				if (x == y)
 				
 				{
-					_putchar('\');
+					_putchar('\\');
 				}
 				else if (y < x)
 				{
 					_putchar(' ');
 				}
-			_putchar('\n');
 			}
+		_putchar('\n')
 	}
 }
