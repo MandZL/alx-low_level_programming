@@ -7,5 +7,5 @@ int mul(int a, int b)
 {
 	int multiplication;
 	multiplication = a * b;
-	printf("%d", multiplication);
+	return (multiplication)
 }
