@@ -16,7 +16,7 @@ void more_numbers(void)
 			_putchar('\n');
 		}
 		y++;
-		_putchar('\n')
+		_putchar('\n');
 	}
 }
 
